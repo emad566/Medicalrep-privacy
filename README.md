@@ -17,7 +17,7 @@ We may also collect non-personal information about your use of our app, such as
 
 <b>Mobile Device Data</b>. We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, application identification numbers,  IPaddress,  device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID and  MAC address
                    
-<b></b>. We may request to send you push notifications regarding your account or certain features of the App . If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
+<b>Push Notifications</b>. We may request to send you push notifications regarding your account or certain features of the App . If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
