@@ -5,7 +5,7 @@ Marvel-Rep Privacy Policy
 This privacy policy explains how we collect, use, and protect your personal information when you use our online app.
 By using our app, you consent to the terms of this privacy policy. 
 we are committed to protecting your privacy in accordance with applicable laws and regulations.
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 
 ### Information Collection and Use  
