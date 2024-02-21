@@ -1,4 +1,4 @@
-Medical-Rep Privacy Policy  
+MedicalRep Privacy Policy  
 ----------------
 
 ### Introduction  
